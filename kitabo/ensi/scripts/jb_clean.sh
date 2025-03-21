@@ -11,6 +11,7 @@ cp -r data/* _build/html/data
 cp -r testbin/* _build/html/testbin
 cp -r testbin_dec2024/* _build/html/testbin_dec2024
 cp -r nis/* _build/html/nis
+cp tree.html _build/html/
 
 
 
